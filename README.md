@@ -1,2 +1,2 @@
-# SmartRefrigerator
-Refrigerator using c pointers for oop course
+# SmartRefrigerator-C
+A smart refrigerator made in C
